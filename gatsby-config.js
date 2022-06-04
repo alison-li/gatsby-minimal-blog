@@ -40,6 +40,10 @@ module.exports = {
             name: `LinkedIn`,
             url: `https://linkedin.com/in/alison-li`,
           },
+          {
+            name: `Resume`,
+            url: `https://drive.google.com/file/d/1VAP0QpqyqWObDrpMccEV1MbAWdQDBgbN/view?usp=sharing`,
+          },
         ],
       },
     },

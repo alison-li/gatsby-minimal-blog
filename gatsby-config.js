@@ -42,7 +42,7 @@ module.exports = {
           },
           {
             name: `Resume`,
-            url: `https://drive.google.com/file/d/1VAP0QpqyqWObDrpMccEV1MbAWdQDBgbN/view?usp=sharing`,
+            url: `https://drive.google.com/file/d/1fEFW-wIxpvu9w1IxswLCty5yZ8_HNTDV/view?usp=sharing`,
           },
         ],
       },
